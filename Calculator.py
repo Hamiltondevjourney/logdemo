@@ -9,3 +9,5 @@ class Calculator():
         return x - y
     def multipy(x, y):
         return x * y 
+    def division(x, y):
+        return x / y
