@@ -13,4 +13,6 @@ class Calculator():
         return x / y
     def double_division(x, y):
         return (x**2) / (y**2)
+    def remainder(x, y):
+        return (x % y)
     
