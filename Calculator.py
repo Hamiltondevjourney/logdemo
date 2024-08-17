@@ -15,4 +15,6 @@ class Calculator():
         return (x**2) / (y**2)
     def remainder(x, y):
         return (x % y)
-    
+    def x_square(x):
+        return (x ** 2)
+        
